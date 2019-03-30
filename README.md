@@ -20,3 +20,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * App that allows you to store text messages securely and access them with some generated key, any time
 * Script/app that checks whether you are a student of NU
 * vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK.
+* Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
