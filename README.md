@@ -11,7 +11,7 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Manual for perfoming pentests
 * App that allows anonymous chat group for students
 * Schedule builder
-* Course Registration script
+* Course Registration script (Deadline: 13 April first priority registration)
 * 2d/text-graphics visual novel game
 * SoulMate-searcher for students
 * Site for ACM SC
