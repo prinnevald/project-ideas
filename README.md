@@ -18,3 +18,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * IaC for a club
 * VPN for CyberSec SIG/MTProto for a club
 * App that allows you to store text messages securely and access them with some generated key, any time
+* TelegramBot that helps to find chat for every course (section)
