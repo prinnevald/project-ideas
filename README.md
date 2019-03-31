@@ -21,3 +21,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Script/app that checks whether you are a student of NU
 * vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK.
 * Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
+* Parse the my.nu.edu and collect a database
