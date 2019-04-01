@@ -11,7 +11,7 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Manual for perfoming pentests
 * App that allows anonymous chat group for students
 * Schedule builder
-* Course Registration script
+* Course Registration script (Deadline: 13 April first priority registration)
 * 2d/text-graphics visual novel game
 * SoulMate-searcher for students
 * Site for ACM SC
@@ -19,3 +19,7 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * VPN for CyberSec SIG/MTProto for a club
 * App that allows you to store text messages securely and access them with some generated key, any time
 * TelegramBot that helps to find chat for every course (section)
+* Script/app that checks whether you are a student of NU
+* vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK.
+* Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
+* Parse the my.nu.edu and collect a database
