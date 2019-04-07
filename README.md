@@ -24,3 +24,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
 * Parse the my.nu.edu and collect a database
 * Map Guide for NU events (Probably using AR)
+* Room booking option from Indigo bot
