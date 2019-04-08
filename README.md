@@ -23,4 +23,9 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK.
 * Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
 * Parse the my.nu.edu and collect a database
+<<<<<<< HEAD
 * Torrent Client within University network
+=======
+* Map Guide for NU events (Probably using AR)
+* Room booking option from Indigo bot
+>>>>>>> ae32f7e2134ff1a8e173c8952f2fbff3cb84c2d9
