@@ -27,3 +27,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Map Guide for NU events (Probably using AR)
 * Room booking option from Indigo bot
 * Python script to deauthenticate users from Wi-Fi
+* CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz)
