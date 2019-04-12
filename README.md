@@ -29,3 +29,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Python script to deauthenticate users from Wi-Fi
 * CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz)
 * Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
+* Rewrite source code for discord to add "Ctrl+Enter" shortcut to send messages
