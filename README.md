@@ -30,3 +30,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz)
 * Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
 * Rewrite source code for discord to add "Ctrl+Enter" shortcut to send messages
+* Write a telegram bot that will tell you how much money is left on your astracard. For that you have to bypass captcha (TO-DO)
