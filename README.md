@@ -6,7 +6,7 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * yoGAN - generative adversarial network that generates classical music.
 * KPopGenerator - generative network that generates kpop music
 * Stickers for club
-* Platform to keep a track of club deadlines
+* Platform to keep a track of club deadlines. It is possible to make it as an ACM RPG game, where you have tasks as quests and get in-game EXP and GLD and can spend it on some in-game items or in-club perks, or upgrade your hero for some pvp.
 * Manual for hosting events
 * Manual for perfoming pentests
 * App that allows anonymous chat group for students
@@ -29,4 +29,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Python script to deauthenticate users from Wi-Fi
 * CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz)
 * Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
-* Write a telegram bot that will tell you how much money is left on your astracard. For that you have to bypass captcha (TO-DO)
+* Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
