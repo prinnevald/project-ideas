@@ -31,3 +31,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
 * Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
 * Write minesweeper game with Qt.
+* Write CS-like game with server and custom protocol so it would run in a restricted network
