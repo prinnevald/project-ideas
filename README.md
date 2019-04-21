@@ -11,7 +11,7 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Manual for perfoming pentests
 * App that allows anonymous chat group for students
 * Schedule builder
-* Course Registration script (Deadline: 13 April first priority registration)
+* Course Registration script
 * 2d/text-graphics visual novel game
 * SoulMate-searcher for students
 * Site for ACM SC
@@ -32,3 +32,4 @@ Repository to keep track of project ideas. Please let me know if you're planning
 * Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
 * Write minesweeper game with Qt.
 * Write CS-like game with server and custom protocol so it would run in a restricted network
+* Continue to work on ComixDownloader (It would be nice to finish it by the end of May)
