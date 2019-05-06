@@ -37,3 +37,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 * Write CS-like game with server and custom protocol so it would run in a restricted network
 * Continue to work on ComixDownloader (It would be nice to finish it by the end of May)
 * Create an IRC server for HANS from Arduino
+* Write J2ME native emulator for Linux
