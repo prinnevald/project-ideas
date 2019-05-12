@@ -1,10 +1,10 @@
 # Project Ideas
 Repository to keep track of project ideas. Most of them are dumb, I won't be offended if you steal them. Let me know and I will add the link to your implementation.
 
-- :octocat: - University related
-- :sparkles: - Telegram bot
-- :space_invader: - ACM Related
-- Others are just for fun or practice
+* :octocat: - University related
+* :sparkles: - Telegram bot
+* :space_invader: - ACM Related
+* Others are just for fun or practice
 
 # Ideas
 
@@ -53,7 +53,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: :sparkles: TelegramBot that helps to find chat for every course (section) 
 - [ ] :space_invader: CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz) :space_invader:
 - [ ] :octocat: Script/app that checks whether you are a student of NU
-- [ ] :sparkles: Continue to work on ComixDownloader **(It would be nice to finish it by the end of May)**
+- [ ] :sparkles: Continue to work on ComixDownloader ***(It would be nice to finish it by the end of May)***
 - [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK.
 - [ ] Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
 - [ ] :sparkles: Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
