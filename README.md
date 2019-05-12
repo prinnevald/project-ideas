@@ -9,7 +9,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 # Ideas
 
 ### Projects grouped by theme:
-- [AI](#AI)
+- [ML](#ML)
 - [CyberSec](#CyberSec)
 - [Gaming](#Game)
 - [Web Development](#Web)
@@ -17,7 +17,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [Hardware](#hardware)
 - [Others](#Others)
 
-## AI
+## ML
 - [ ] Neural network that performs binary classification between Hideo Kojima and Kairat Nurtas.
 - [ ] yoGAN - generative adversarial network that generates classical music.
 - [ ] KPopGenerator - generative network that generates kpop music
