@@ -1,6 +1,12 @@
 # Project Ideas
 Repository to keep track of project ideas. Most of them are dumb, I won't be offended if you steal them. Let me know and I will add the link to your implementation.
 
+:octocat: - University related
+:sparkles: - Telegram bot
+:rocket: - very helpful stuff
+:space_invader: - ACM Related
+Other are just for fun or practice
+
 # Ideas
 
 ## AI
@@ -11,39 +17,44 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Memerator - generate memes in twitter format.
 - [ ] gurrenlaGAN - generative adversarial network that generates mecha.
 
-## Telegram bots
+#CyberSec
+- [ ] Manual for perfoming pentests
+- [ ] App that allows you to store text messages securely and access them with some generated key, any time
+- [ ] :rocket: :space_invader: VPN for CyberSec SIG/MTProto for a club
+- [ ] :octocat: App that allows anonymous chat group for students
+- [ ] Python script to deauthenticate users from Wi-Fi
+- [ ] :octocat: Torrent Client within University network
 
+#GameIndustry
+- [ ] 2d/text-graphics visual novel game
+
+#Web
+- [ ] :space_invader: Site for ACM SC 
+
+#OS
+- [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
+- [ ] Write J2ME native emulator for Linux
+
+#Hardware
+- [ ] Create an IRC server for HANS from Arduino
 
 ## Others
 - [ ] Manual for hosting events
 - [ ] Stickers for club
-- [ ] Platform to keep a track of club deadlines. It is possible to make it as an ACM RPG game, where you have tasks as quests and get in-game EXP and GLD and can spend it on some in-game items or in-club perks, or upgrade your hero for some pvp. 
-
-
-- [ ] Manual for perfoming pentests
-- [ ] App that allows anonymous chat group for students
-- [ ] Schedule builder
-- [ ] Course Registration script
-- [ ] 2d/text-graphics visual novel game
-- [ ] SoulMate-searcher for students
-- [ ] Site for ACM SC
+- [ ] :octocat: Map Guide for NU events (Probably using AR)
 - [ ] IaC for a club
-- [ ] VPN for CyberSec SIG/MTProto for a club
-- [ ] App that allows you to store text messages securely and access them with some generated key, any time
-- [ ] TelegramBot that helps to find chat for every course (section)
-- [ ] Script/app that checks whether you are a student of NU
-- [ ] vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK.
-- [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
-- [ ] Parse the my.nu.edu and collect a database
-- [ ] Torrent Client within University network
-- [ ] Map Guide for NU events (Probably using AR)
-- [ ] Room booking option from Indigo bot
-- [ ] Python script to deauthenticate users from Wi-Fi
-- [ ] CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz)
-- [ ] Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
-- [ ] Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
-- [ ] Write minesweeper game with Qt.
+- [ ] :octocat: Parse the my.nu.edu and collect a database
 - [ ] Write CS-like game with server and custom protocol so it would run in a restricted network
-- [ ] Continue to work on ComixDownloader (It would be nice to finish it by the end of May)
-- [ ] Create an IRC server for HANS from Arduino
-- [ ] Write J2ME native emulator for Linux
+- [ ] :octocat: :sparkles: Course Registration script
+- [ ] :octocat: Schedule builder 
+- [ ] :octocat: Platform to keep a track of club deadlines. It is possible to make it as an ACM RPG game, where you have tasks as quests and get in-game EXP and GLD and can spend it on some in-game items or in-club perks, or upgrade your hero for some pvp. 
+- [ ] :octocat: :sparkles: SoulMate-searcher for students
+- [ ] :sparkles: Room booking option from Indigo bot
+- [ ] :octocat: :sparkles: TelegramBot that helps to find chat for every course (section) 
+- [ ] CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz) :space_invader:
+- [ ] :octocat: Script/app that checks whether you are a student of NU
+- [ ] Write minesweeper game with Qt.
+- [ ] :sparkles: Continue to work on ComixDownloader **(It would be nice to finish it by the end of May)**
+- [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK.
+- [ ] Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
+- [ ] :sparkles: Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
