@@ -25,7 +25,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Memerator - generate memes in twitter format.
 - [ ] gurrenlaGAN - generative adversarial network that generates mecha.
 
-# CyberSec
+## CyberSec
 - [ ] Manual for perfoming pentests
 - [ ] App that allows you to store text messages securely and access them with some generated key, any time
 - [ ] :space_invader: VPN for CyberSec SIG/MTProto for a club
@@ -33,18 +33,18 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Python script to deauthenticate users from Wi-Fi
 - [ ] :octocat: Torrent Client within University network
 
-# Game
+## Game
 - [ ] 2d/text-graphics visual novel game
 - [ ] Write minesweeper game with Qt.
 
-# Web
+## Web
 - [ ] :space_invader: Site for ACM SC
 
-# OS
+## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
 - [ ] Write J2ME native emulator for Linux
 
-# Hardware
+## Hardware
 - [ ] Create an IRC server for HANS from Arduino
 
 ## Others
