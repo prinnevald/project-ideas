@@ -63,7 +63,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :space_invader: CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz) :space_invader:
 - [ ] :octocat: Script/app that checks whether you are a student of NU
 - [ ] :sparkles: Continue to work on ComixDownloader ***(It would be nice to finish it by the end of May)***
-- [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK. (nufeedbot)[https://github.com/KtlTheBest/nufeedbot]
+- [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK. [nufeedbot](https://github.com/KtlTheBest/nufeedbot)
 - [ ] Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
 - [ ] :sparkles: Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
 - [ ] System that parses bloggers, displaying their category (which also will be categorized by itself), conversion rate and number of subscribers
