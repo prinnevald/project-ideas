@@ -68,3 +68,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :sparkles: Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
 - [ ] System that parses bloggers, displaying their category (which also will be categorized by itself), conversion rate and number of subscribers
 - [ ] :sparkles: Telegram bot that gives IIN, fares, living place, unpaid fees, registered vehicles and companies of person given to the bot
+- [ ] Create the best kazakhstani search engine
