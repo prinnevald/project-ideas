@@ -69,3 +69,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] System that parses bloggers, displaying their category (which also will be categorized by itself), conversion rate and number of subscribers
 - [ ] :sparkles: Telegram bot that gives IIN, fares, living place, unpaid fees, registered vehicles and companies of person given to the bot
 - [ ] Create the best kazakhstani search engine
+- [ ] Python module to handle NDMP
