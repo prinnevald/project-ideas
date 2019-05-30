@@ -39,6 +39,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
+- [ ] Optimize search mechanism for [dev.to](https://dev.to)
 
 ## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
