@@ -40,10 +40,12 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 ## Web
 - [ ] :space_invader: Site for ACM SC
 - [ ] Optimize search mechanism for [dev.to](https://dev.to)
+- [ ] Run Forum for students on local machine
 
 ## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
 - [ ] Write J2ME native emulator for Linux
+- [ ] Install Linux on local machine by creating bootable usb and readable as CD (might work, but probably won't)
 
 ## Hardware
 - [ ] Create an IRC server for HANS from Arduino
@@ -63,7 +65,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: :sparkles: TelegramBot that helps to find chat for every course (section) 
 - [ ] :space_invader: CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz) :space_invader:
 - [ ] :octocat: Script/app that checks whether you are a student of NU
-- [ ] :sparkles: Continue to work on ComixDownloader ***(It would be nice to finish it by the end of May)***
+- [ ] :sparkles: Continue to work on ComixDownloader ***(It would have been nice to finish it by the end of May)***
 - [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK. [nufeedbot](https://github.com/KtlTheBest/nufeedbot)
 - [ ] Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
 - [ ] :sparkles: Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
@@ -71,3 +73,5 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :sparkles: Telegram bot that gives IIN, fares, living place, unpaid fees, registered vehicles and companies of person given to the bot
 - [ ] Create the best kazakhstani search engine
 - [ ] Python module to handle NDMP
+- [ ] Random sentence generator to automate the writing of weekly activity reports for internship
+- [ ] Create repository with python modules for different RFS services running on different ports
