@@ -45,10 +45,13 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 ## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
 - [ ] Write J2ME native emulator for Linux
-- [ ] Install Linux on local machine by creating bootable usb and readable as CD (might work, but probably won't)
+- [ ] Finish installing LFS (Linux From Scratch)
+- [ ] Write an Android App running virtual machine that will be faster and resource-efficient by removing unnecessary functionality and by providing essential OS-API
 
 ## Hardware
 - [ ] Create an IRC server for HANS from Arduino
+- [ ] Create a custom DNS server that will be accessible to HANS only
+- [ ] Install Linux on local machine by creating bootable usb and readable as CD (might work, but probably won't)
 
 ## Others
 - [ ] Manual for hosting events
