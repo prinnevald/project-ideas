@@ -13,8 +13,9 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [CyberSec](#CyberSec)
 - [Gaming](#Game)
 - [Web Development](#Web)
-- [OS](#os)
-- [Hardware](#hardware)
+- [OS](#OS)
+- [Mobile](#Mobile)
+- [Hardware](#Hardware)
 - [Others](#Others)
 
 ## ML
@@ -49,6 +50,12 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Write an Android App running virtual machine that will be faster and resource-efficient by removing unnecessary functionality and by providing essential OS-API
 - [ ] Create own LFS distribution with different difficulty settings to help people try and install their own LFS. For example, if you choose Very Easy, LFS comes with every needed source, automatically allocates space, comes with building scripts. As you increase difficulty, you have to manually install more and more dependancies and try to solve problems on your own. Also very easy to install LFS very fast
 
+## Mobile
+- [ ] :octocat: Map Guide for NU events (Probably using AR)
+- [ ] :octocat: :sparkles: SoulMate-searcher for students
+- [ ] :octocat: Script/app that checks whether you are a student of NU
+- [ ] :octocat: Create a mobile app for NU students, with useful functions for students and native support for Indigo
+
 ## Hardware
 - [ ] Create an IRC server for HANS from Arduino
 - [ ] Create a custom DNS server that will be accessible to HANS only
@@ -57,18 +64,15 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 ## Others
 - [ ] Manual for hosting events
 - [ ] Stickers for club
-- [ ] :octocat: Map Guide for NU events (Probably using AR)
 - [ ] IaC for a club
 - [ ] :octocat: Parse the my.nu.edu and collect a database
 - [ ] Write CS-like game with server and custom protocol so it would run in a restricted network
 - [ ] :octocat: :sparkles: Course Registration script
 - [ ] :octocat: Schedule builder 
 - [ ] :octocat: Platform to keep a track of club deadlines. It is possible to make it as an ACM RPG game, where you have tasks as quests and get in-game EXP and GLD and can spend it on some in-game items or in-club perks, or upgrade your hero for some pvp. 
-- [ ] :octocat: :sparkles: SoulMate-searcher for students
 - [ ] :sparkles: Room booking option from Indigo bot
 - [ ] :octocat: :sparkles: TelegramBot that helps to find chat for every course (section) 
 - [ ] :space_invader: CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz) :space_invader:
-- [ ] :octocat: Script/app that checks whether you are a student of NU
 - [ ] :sparkles: Continue to work on ComixDownloader ***(It would have been nice to finish it by the end of May)***
 - [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK. [nufeedbot](https://github.com/KtlTheBest/nufeedbot)
 - [ ] Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
