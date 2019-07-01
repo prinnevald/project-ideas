@@ -33,6 +33,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: App that allows anonymous chat group for students
 - [ ] Python script to deauthenticate users from Wi-Fi
 - [ ] :octocat: Torrent Client within University network
+- [ ] :octocat: NPP - NU Payment Protocol - for debugging and pentesting purposes
 
 ## Game
 - [ ] 2d/text-graphics visual novel game
