@@ -56,6 +56,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: :sparkles: SoulMate-searcher for students
 - [ ] :octocat: Script/app that checks whether you are a student of NU
 - [ ] :octocat: Create a mobile app for NU students, with useful functions for students and native support for Indigo
+- [ ] Sound board for HANS
 
 ## Hardware
 - [ ] Create an IRC server for HANS from Arduino
