@@ -38,6 +38,10 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 ## Game
 - [ ] 2d/text-graphics visual novel game
 - [ ] Write minesweeper game with Qt.
+- [ ] Memungeon - dungeon-RPG
+- [ ] o - text-based platformer
+- [ ] pipeturn - endless mobile game about shapes
+- [ ] s3rlinate - rhythm based mobile game
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
@@ -70,10 +74,10 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: Parse the my.nu.edu and collect a database
 - [ ] Write CS-like game with server and custom protocol so it would run in a restricted network
 - [ ] :octocat: :sparkles: Course Registration script
-- [ ] :octocat: Schedule builder 
-- [ ] :octocat: Platform to keep a track of club deadlines. It is possible to make it as an ACM RPG game, where you have tasks as quests and get in-game EXP and GLD and can spend it on some in-game items or in-club perks, or upgrade your hero for some pvp. 
+- [ ] :octocat: Schedule builder
+- [ ] :octocat: Platform to keep a track of club deadlines. It is possible to make it as an ACM RPG game, where you have tasks as quests and get in-game EXP and GLD and can spend it on some in-game items or in-club perks, or upgrade your hero for some pvp.
 - [ ] :sparkles: Room booking option from Indigo bot
-- [ ] :octocat: :sparkles: TelegramBot that helps to find chat for every course (section) 
+- [ ] :octocat: :sparkles: TelegramBot that helps to find chat for every course (section)
 - [ ] :space_invader: CMS for ACM ICPC SIG (Being done by Rauan, Nuradil, Hafiz) :space_invader:
 - [ ] :sparkles: Continue to work on ComixDownloader ***(It would have been nice to finish it by the end of May)***
 - [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK. [nufeedbot](https://github.com/KtlTheBest/nufeedbot)
@@ -85,3 +89,6 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Python module to handle NDMP
 - [ ] Random sentence generator to automate the writing of weekly activity reports for internship
 - [ ] Create repository with python modules for different RFS services running on different ports
+- [ ] Teamificator - TG bot for team division
+- [ ] Pidor of the Day with NU statistics
+- [ ] Wish granter - wish creator based on the person characteristics
