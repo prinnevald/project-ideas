@@ -25,6 +25,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Memeterpreter - memes should be available to everyone even if they do not know the language. meme translator.
 - [ ] Memerator - generate memes in twitter format.
 - [ ] gurrenlaGAN - generative adversarial network that generates mecha.
+- [ ] :sparkles: smartboi - AI-powered telegram chat bot, talks about everything and nothing at the same time.
 
 ## CyberSec
 - [ ] Manual for perfoming pentests
@@ -33,7 +34,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: App that allows anonymous chat group for students
 - [ ] Python script to deauthenticate users from Wi-Fi
 - [ ] :octocat: Torrent Client within University network
-- [ ] :octocat: NPP - NU Payment Protocol - for debugging and pentesting purposes
+- [ ] :octocat: NPP - NU Payment Protocol - for debugging and ~breaking~ pentesting purposes
 
 ## Game
 - [ ] 2d/text-graphics visual novel game
@@ -42,6 +43,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] o - text-based platformer
 - [ ] pipeturn - endless mobile game about shapes
 - [ ] s3rlinate - rhythm based mobile game
+- [ ] Heisig cards - card based on japanese kanji to ease the learning process and adopt popular card games.
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
@@ -66,6 +68,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Create an IRC server for HANS from Arduino
 - [ ] Create a custom DNS server that will be accessible to HANS only
 - [ ] Install Linux on local machine by creating bootable usb and readable as CD (might work, but probably won't)
+- [ ] Create bad usb to ease spawning of reverse shell (the stealthier, the better)
 
 ## Others
 - [ ] Manual for hosting events
@@ -88,7 +91,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Create the best kazakhstani search engine
 - [ ] Python module to handle NDMP
 - [ ] Random sentence generator to automate the writing of weekly activity reports for internship
-- [ ] Create repository with python modules for different RFS services running on different ports
-- [ ] Teamificator - TG bot for team division
-- [ ] Pidor of the Day with NU statistics
+- [ ] Create repository with python modules for different well-known (port<1024) services running on different ports
+- [ ] :sparkles: Teamificator - TG bot for team division
+- [ ] :sparkles: Pidor of the Day with NU statistics
 - [ ] Wish granter - wish creator based on the person characteristics
