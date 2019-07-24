@@ -34,7 +34,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: App that allows anonymous chat group for students
 - [ ] Python script to deauthenticate users from Wi-Fi
 - [ ] :octocat: Torrent Client within University network
-- [ ] :octocat: NPP - NU Payment Protocol - for debugging and ~breaking~ pentesting purposes
+- [ ] :octocat: NPP - NU Payment Protocol - for ~breaking~ debugging and pentesting purposes
 
 ## Game
 - [ ] 2d/text-graphics visual novel game
@@ -47,7 +47,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
-- [ ] Optimize search mechanism for [dev.to](https://dev.to)
+- [ ] Optimize search mechanism for [dev.to](https://dev.to) (Seems to work, leave it here as a reminder to look at it later)
 - [ ] Run Forum for students on local machine
 - [ ] MyLittleIRC - How difficult it is to write your own IRC server from scratch?)
 
