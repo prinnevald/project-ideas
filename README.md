@@ -44,7 +44,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] pipeturn - endless mobile game about shapes
 - [ ] s3rlinate - rhythm based mobile game
 - [ ] Heisig cards - card based on japanese kanji to ease the learning process and adopt popular card games.
-- [ ] Text-based game of RPG game
+- [ ] Text-based terminal RPG game (ASCII art we love and trust in)
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
