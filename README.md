@@ -35,6 +35,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Python script to deauthenticate users from Wi-Fi
 - [ ] :octocat: Torrent Client within University network
 - [ ] :octocat: NPP - NU Payment Protocol - for ~breaking~ debugging and pentesting purposes
+- [ ] Open source IPS tool with Cisco's Stealth Watch capabilities. (At least a prototype with limited functionality and intuitive GUI/CLI would be sufficient)
 
 ## Game
 - [ ] 2d/text-graphics visual novel game
@@ -45,6 +46,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] s3rlinate - rhythm based mobile game
 - [ ] Heisig cards - card based on japanese kanji to ease the learning process and adopt popular card games.
 - [ ] Text-based terminal RPG game (ASCII art we love and trust in)
+- [ ] Make native OSU! game port for linux on C++ (Challenge accepted)
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
@@ -88,7 +90,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :sparkles: Continue to work on ComixDownloader ***(It would have been nice to finish it by the end of May)***
 - [ ] :octocat: :sparkles: vatriumefeedbot. Telegram bot that sends VAtriume posts to Telegram. Can be used by people who do not have VK. [nufeedbot](https://github.com/KtlTheBest/nufeedbot)
 - [ ] Some sort of library or a module for a Hobot bots (Sherkhan knows) as a support for JS and app development stuff.
-- [ ] :sparkles: Write a telegram bot that will tell you how much money is left on your astracard. (EASY)
+- [ ] :sparkles: Write a telegram bot that will tell you how much money is left on your astracard. (IN PROGRESS) [astra-balance-checker](https://github.com/Akylzhan/astra-balance-checker)
 - [ ] System that parses bloggers, displaying their category (which also will be categorized by itself), conversion rate and number of subscribers
 - [ ] :sparkles: Telegram bot that gives IIN, fares, living place, unpaid fees, registered vehicles and companies of person given to the bot
 - [ ] Create the best kazakhstani search engine
