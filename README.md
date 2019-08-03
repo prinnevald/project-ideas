@@ -4,6 +4,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 * :octocat: - University related
 * :sparkles: - Telegram bot
 * :space_invader: - ACM Related
+* :candy: - For beginners who want to gain experience
 * Others are just for fun or practice
 
 # Ideas
@@ -11,7 +12,6 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 ### Projects grouped by theme:
 - [ML](#ML)
 - [CyberSec](#CyberSec)
-- [Gaming For BEGINNERS](#BEGINNERS: Game)
 - [Gaming](#Game)
 - [Web Development](#Web)
 - [OS](#OS)
@@ -38,17 +38,6 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: NPP - NU Payment Protocol - for ~breaking~ debugging and pentesting purposes
 - [ ] Open source IPS tool with Cisco's Stealth Watch capabilities. (At least a prototype with limited functionality and intuitive GUI/CLI would be sufficient)
 
-## BEGINNERS: Game
-- [ ] Pong. Simple: input, physics, collision detection, sound; scoring
-- [ ] Worm (or Snake). Placement of random powerups, handling of screen boundaries, worm data structure
-- [ ] Breakout. Lessons of Pong, powerups, maps (brick arrangements)
-- [ ] Missile Command. Targeting; simple enemy ai, movement, and sound
-- [ ] Space Invaders. Simple movement for player and enemy, very similar to breakout with the exception that the enemy constantly moves downward, simple sound
-- [ ] Asteroids. Asteroids (enemies) and player can move in all directions, asteroids appear and move randomly, simple sound
-- [ ] Tetris. Block design, clearing the lines, scoring, simple animation
-- [ ] Pac Man. Simple animation, input, collision detection, maps (level design), ai
-- [ ] Ikari Warriors. Top down view, enemy ai, powerups, scoring, collision detection, maps (level design), input, sound, boss ai
-- [ ] Super Mario Bros. Lessons of Ikari Warriors (except with side-view instead of top-down view), acceleration, jumping, platforms
 ## Game
 - [ ] 2d/text-graphics visual novel game
 - [ ] Write minesweeper game with Qt.
@@ -58,7 +47,17 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] s3rlinate - rhythm based mobile game
 - [ ] Heisig cards - card based on japanese kanji to ease the learning process and adopt popular card games.
 - [ ] Text-based terminal RPG game (ASCII art we love and trust in)
-- [ ] Make native OSU! game port for linux on C++ (Challenge accepted)
+- [ ] Make native OSU! game port for linux on C++ (Challenge accepted
+- [ ] :candy: Pong. Simple: input, physics, collision detection, sound; scoring [Example in Löve2D](https://github.com/Akylzhan/Pong)
+- [ ] :candy: Worm (or Snake). Placement of random powerups, handling of screen boundaries, worm data structure [Example in Löve2D](https://github.com/Akylzhan/Snake)
+- [ ] :candy: Breakout. Lessons of Pong, powerups, maps (brick arrangements) [Example in Löve2D](https://github.com/Akylzhan/Breakout)
+- [ ] :candy: Missile Command. Targeting; simple enemy ai, movement, and sound
+- [ ] :candy: Space Invaders. Simple movement for player and enemy, very similar to breakout with the exception that the enemy constantly moves downward, simple sound
+- [ ] :candy: Asteroids. Asteroids (enemies) and player can move in all directions, asteroids appear and move randomly, simple sound
+- [ ] :candy: Tetris. Block design, clearing the lines, scoring, simple animation
+- [ ] :candy: Pac Man. Simple animation, input, collision detection, maps (level design), ai
+- [ ] :candy: Ikari Warriors. Top down view, enemy ai, powerups, scoring, collision detection, maps (level design), input, sound, boss ai
+- [ ] :candy: Super Mario Bros. Lessons of Ikari Warriors (except with side-view instead of top-down view), acceleration, jumping, platforms
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
