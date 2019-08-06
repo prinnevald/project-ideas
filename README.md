@@ -36,6 +36,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: Torrent Client within University network
 - [ ] :octocat: NPP - NU Payment Protocol - for ~breaking~ debugging and pentesting purposes
 - [ ] Open source IPS tool with Cisco's Stealth Watch capabilities. (At least a prototype with limited functionality and intuitive GUI/CLI would be sufficient)
+- [ ] There is a dsvpn project, add DNS autoconfiguration on server side.
 
 ## Game
 - [ ] 2d/text-graphics visual novel game
