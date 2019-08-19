@@ -1,5 +1,5 @@
 # Project Ideas
-Repository to keep track of project ideas. Most of them are dumb, I won't be offended if you steal them. Let me know and I will add the link to your implementation.
+Repository to keep track of project ideas. Most of them are dumb, I won't be offended if you steal them. Let me know and I will add the link to your project.
 
 * :octocat: - University related
 * :sparkles: - Telegram bot
@@ -110,5 +110,5 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Random sentence generator to automate the writing of weekly activity reports for internship
 - [ ] Create repository with python modules for different well-known (port<1024) services running on different ports
 - [ ] :sparkles: Teamificator - TG bot for team division
-- [ ] :sparkles: Pidor of the Day with NU statistics
+- [ ] :sparkles: Pidor of the Day with NU statistics [bot](Ahttps://github.com/prinnevald/hanspiderbot/)
 - [ ] Wish granter - wish creator based on the person characteristics
