@@ -59,7 +59,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :candy: Pac Man. Simple animation, input, collision detection, maps (level design), ai
 - [ ] :candy: Ikari Warriors. Top down view, enemy ai, powerups, scoring, collision detection, maps (level design), input, sound, boss ai
 - [ ] :candy: Super Mario Bros. Lessons of Ikari Warriors (except with side-view instead of top-down view), acceleration, jumping, platforms
-- [ ] NUTyperacer - Typeracer just fell, might as well right my own/ And it would work from terminal :)
+- [ ] NUTyperacer - Typeracer just fell, might as well write my own. And it would work from terminal :)
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
