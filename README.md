@@ -90,7 +90,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 
 ## Others
 - [ ] Manual for hosting events
-- [ ] Stickers for club
+- [x] Stickers for club
 - [ ] IaC for a club
 - [ ] :octocat: Parse the my.nu.edu and collect a database
 - [ ] Write CS-like game with server and custom protocol so it would run in a restricted network
