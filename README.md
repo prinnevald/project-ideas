@@ -76,6 +76,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Create own LFS distribution with different difficulty settings to help people try and install their own LFS. For example, if you choose Very Easy, LFS comes with every needed source, automatically allocates space, comes with building scripts. As you increase difficulty, you have to manually install more and more dependancies and try to solve problems on your own. Also very easy to install LFS very fast
 - [ ] PacketTracerX - X here stands for extended which means it will support ALL functionality of IOS. Do you think it is possible? :)
 - [ ] Complete C to MIPS compiler, include scanf and printf support
+- [ ] Write Ansible playbooks to customize fedora in minutes
 
 ## Mobile
 - [ ] :octocat: Map Guide for NU events (Probably using AR)
