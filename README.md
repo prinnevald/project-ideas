@@ -39,6 +39,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Open source IPS tool with Cisco's Stealth Watch capabilities. (At least a prototype with limited functionality and intuitive GUI/CLI would be sufficient)
 - [ ] There is a dsvpn project, add DNS autoconfiguration on server side.
 - [ ] Add RSS feed that parses security news.
+- [ ] Write ansible playbooks that install security tools on different OS
 
 ## Game
 - [ ] 2d/text-graphics visual novel game
