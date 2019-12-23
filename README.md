@@ -117,3 +117,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :sparkles: Teamificator - TG bot for team division
 - [ ] :sparkles: Pidor of the Day with NU statistics [bot](Ahttps://github.com/prinnevald/hanspiderbot/)
 - [ ] Wish granter - wish creator based on the person characteristics
+- [ ] :sparkles: Kanjibot - Learn Kanji everyday
