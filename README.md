@@ -68,6 +68,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Optimize search mechanism for [dev.to](https://dev.to) (Seems to work, leave it here as a reminder to look at it later)
 - [ ] Run Forum for students on local machine
 - [ ] MyLittleIRC - How difficult it is to write your own IRC server from scratch?)
+- [ ] Create your own media server.
 
 ## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
