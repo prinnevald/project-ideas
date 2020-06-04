@@ -119,3 +119,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :sparkles: Pidor of the Day with NU statistics [bot](Ahttps://github.com/prinnevald/hanspiderbot/)
 - [ ] Wish granter - wish creator based on the person characteristics
 - [x] :sparkles: [Kanjibot](https://github.com/KtlTheBest/japakanbot) - Learn Kanji everyday
+- [ ] Integrate a chat app with Wiki for easier notetaking. Using the best of both worlds.
