@@ -7,10 +7,6 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 * :candy: - For beginners who want to gain experience
 * Others are just for fun or practice
 
-This is the line that was added during workshop
-
-This another line
-
 # Ideas
 
 ### Projects grouped by theme:
