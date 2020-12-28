@@ -62,6 +62,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :candy: Ikari Warriors. Top down view, enemy ai, powerups, scoring, collision detection, maps (level design), input, sound, boss ai
 - [ ] :candy: Super Mario Bros. Lessons of Ikari Warriors (except with side-view instead of top-down view), acceleration, jumping, platforms
 - [ ] NUTyperacer - Typeracer just fell, might as well write my own. And it would work from terminal :)
+- [ ] Fix the Impressive
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
@@ -120,3 +121,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Wish granter - wish creator based on the person characteristics
 - [x] :sparkles: [Kanjibot](https://github.com/KtlTheBest/japakanbot) - Learn Kanji everyday
 - [ ] Integrate a chat app with Wiki for easier notetaking. Using the best of both worlds.
+- [ ] Search enghine for filesystem with Gnome, or something
