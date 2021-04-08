@@ -40,6 +40,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] There is a dsvpn project, add DNS autoconfiguration on server side.
 - [ ] Add RSS feed that parses security news.
 - [ ] Write ansible playbooks that install security tools on different OS
+- [ ] RIHE - Integrated Hacking Environment. (Yes, it is a recursive acronym). The idea is to make a shell, which assists in hacking as much as possible. Initially it can be web only, but the idea is to extend it to files, memory, kernel and even networks. Good luck to me.
 
 ## Game
 - [ ] 2d/text-graphics visual novel game
