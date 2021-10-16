@@ -123,3 +123,5 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [x] :sparkles: [Kanjibot](https://github.com/KtlTheBest/japakanbot) - Learn Kanji everyday
 - [ ] Integrate a chat app with Wiki for easier notetaking. Using the best of both worlds.
 - [ ] Search enghine for filesystem with Gnome, or something
+- [ ] Contribute to Vlang
+- [ ] Browser + IDE in one programm
