@@ -64,6 +64,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :candy: Super Mario Bros. Lessons of Ikari Warriors (except with side-view instead of top-down view), acceleration, jumping, platforms
 - [ ] NUTyperacer - Typeracer just fell, might as well write my own. And it would work from terminal :)
 - [ ] Fix the Impressive
+- [ ] OS or JVM like machine for game development (for gamers)
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
