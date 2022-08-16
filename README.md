@@ -65,6 +65,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] NUTyperacer - Typeracer just fell, might as well write my own. And it would work from terminal :)
 - [ ] Fix the Impressive
 - [ ] OS or JVM like machine for game development (for gamers)
+- [ ] Tamagochi from terminal (Open a new terminal window and the tamagochi in ASCII-art will do some interesting things. You can also make him make reminders, do some actions for you, warn you about some possible mistakes, etc. And fully animated. And in FP-language!)
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
