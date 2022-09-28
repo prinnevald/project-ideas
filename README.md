@@ -73,6 +73,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Run Forum for students on local machine
 - [ ] MyLittleIRC - How difficult it is to write your own IRC server from scratch?)
 - [ ] Create your own media server.
+- [ ] A platform for finding and collaborating with volunteers. Ideally there are organizers who create events and recruit volunteers and volunteers with skills. Platform can be used to manage volunteers and organize events. The platform can also act as a certificate for those who want to prove they were volunteers.
 
 ## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
@@ -90,6 +91,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: Script/app that checks whether you are a student of NU
 - [ ] :octocat: Create a mobile app for NU students, with useful functions for students and native support for Indigo
 - [ ] Sound board for HANS
+- [ ] An instant messaging app that works on Edge (very bad internet connection). Minimal design, minimal payloads and minimal connectivity problems.
 
 ## Hardware
 - [ ] Create an IRC server for HANS from Arduino
@@ -126,4 +128,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Integrate a chat app with Wiki for easier notetaking. Using the best of both worlds.
 - [ ] Search enghine for filesystem with Gnome, or something
 - [ ] Contribute to Vlang
-- [ ] Browser + IDE in one programm
+- [ ] Browser + IDE in one program
