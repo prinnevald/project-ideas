@@ -129,3 +129,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Search enghine for filesystem with Gnome, or something
 - [ ] Contribute to Vlang
 - [ ] Browser + IDE in one program
+- [ ] KimLip - Know It Means Lisp In Python (Embed small Lisp dialect into Python lists with AST Transformations)
