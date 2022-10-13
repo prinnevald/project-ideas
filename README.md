@@ -98,6 +98,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Create a custom DNS server that will be accessible to HANS only
 - [ ] Install Linux on local machine by creating bootable usb and readable as CD (might work, but probably won't)
 - [ ] Create bad usb to ease spawning of reverse shell (the stealthier, the better)
+- [ ] Create a hardware emulator generator: specify the architecture in high level, specify the format of the opcodes, how to parse them and the code that executes on the matching opcode, as well as the rules for the cycle counting.
 
 ## Others
 - [ ] Manual for hosting events
