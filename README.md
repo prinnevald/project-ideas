@@ -92,6 +92,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] :octocat: Create a mobile app for NU students, with useful functions for students and native support for Indigo
 - [ ] Sound board for HANS
 - [ ] An instant messaging app that works on Edge (very bad internet connection). Minimal design, minimal payloads and minimal connectivity problems.
+- [ ] I don't mind - Dating app meets Pokemon Go.
 
 ## Hardware
 - [ ] Create an IRC server for HANS from Arduino
