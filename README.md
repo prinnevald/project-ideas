@@ -10,6 +10,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 # Ideas
 
 ### Projects grouped by theme:
+- [Compilers](#Compilers)
 - [ML](#ML)
 - [CyberSec](#CyberSec)
 - [Gaming](#Game)
@@ -18,6 +19,9 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [Mobile](#Mobile)
 - [Hardware](#Hardware)
 - [Others](#Others)
+
+## Compilers
+- [ ] Jaune - better-than-python-imperative/worse-than-ocaml-functional language. Depends on how you look at it.
 
 ## ML
 - [ ] Neural network that performs binary classification between Hideo Kojima and Kairat Nurtas.
@@ -133,3 +137,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Contribute to Vlang
 - [ ] Browser + IDE in one program
 - [ ] KimLip - Know It Means Lisp In Python (Embed small Lisp dialect into Python lists with AST Transformations)
+- [ ] Two books about programing in Jaune (or one big). One is about imperative Jaune and the other is about functional Jaune
