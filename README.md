@@ -22,6 +22,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 
 ## Compilers
 - [ ] Jaune - better-than-python-imperative/worse-than-ocaml-functional language. Depends on how you look at it.
+- [ ] Fush - F# DSL to generate type-safe and predictable bash scripts.
 
 ## ML
 - [ ] Neural network that performs binary classification between Hideo Kojima and Kairat Nurtas.
