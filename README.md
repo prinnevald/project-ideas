@@ -140,3 +140,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Browser + IDE in one program
 - [ ] KimLip - Know It Means Lisp In Python (Embed small Lisp dialect into Python lists with AST Transformations)
 - [ ] Two books about programing in Jaune (or one big). One is about imperative Jaune and the other is about functional Jaune
+- [ ] Make sure ocamllsp works out of the box from Mason
