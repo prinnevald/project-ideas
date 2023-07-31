@@ -142,3 +142,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Two books about programing in Jaune (or one big). One is about imperative Jaune and the other is about functional Jaune
 - [ ] Make sure ocamllsp works out of the box from Mason
 - [ ] Telegram library for F#
+- [ ] Open-source platform for reproducible research and paper peer-review
