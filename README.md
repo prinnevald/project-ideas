@@ -81,6 +81,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Create your own media server.
 - [ ] A platform for finding and collaborating with volunteers. Ideally there are organizers who create events and recruit volunteers and volunteers with skills. Platform can be used to manage volunteers and organize events. The platform can also act as a certificate for those who want to prove they were volunteers.
 - [ ] Twitter for anonymous ideas. You log in, but the ideas you post are anonymous.
+- [ ] A graphical programming language like Scratch that teaches functional and declarative programming
 
 ## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
