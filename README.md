@@ -92,6 +92,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] PacketTracerX - X here stands for extended which means it will support ALL functionality of IOS. Do you think it is possible? :)
 - [ ] Complete C to MIPS compiler, include scanf and printf support
 - [ ] Write Ansible playbooks to customize fedora in minutes
+- [ ] VPN Profile manager and remover - don't polute your ssystem
 
 ## Mobile
 - [ ] :octocat: Map Guide for NU events (Probably using AR)
