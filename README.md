@@ -24,6 +24,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Jaune - better-than-python-imperative/worse-than-ocaml-functional language. Depends on how you look at it.
 - [ ] Fush - F# DSL to generate type-safe and predictable bash scripts.
 - [ ] BOBS - Boring OCaml Build System
+- [ ] Lisp dialect that transpiles to Go
 
 ## ML
 - [ ] Neural network that performs binary classification between Hideo Kojima and Kairat Nurtas.
@@ -93,6 +94,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Complete C to MIPS compiler, include scanf and printf support
 - [ ] Write Ansible playbooks to customize fedora in minutes
 - [ ] VPN Profile manager and remover - don't polute your ssystem
+- [ ] New input method for Kazakh Language, like for Japanese, but simpler, type in cyrillic, autosubstitute to Kazakh
 
 ## Mobile
 - [ ] :octocat: Map Guide for NU events (Probably using AR)
