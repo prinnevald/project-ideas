@@ -147,3 +147,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Make sure ocamllsp works out of the box from Mason
 - [ ] Telegram library for F#
 - [ ] Open-source platform for reproducible research and paper peer-review
+- [ ] Protocol for uploading, exchanging, searching and reviewing academic papers. Kinda like git-torrent-mastadon for publications.
