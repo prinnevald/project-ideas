@@ -73,6 +73,8 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Fix the Impressive
 - [ ] OS or JVM like machine for game development (for gamers)
 - [ ] Tamagochi from terminal (Open a new terminal window and the tamagochi in ASCII-art will do some interesting things. You can also make him make reminders, do some actions for you, warn you about some possible mistakes, etc. And fully animated. And in FP-language!)
+- [ ] Scrabble solver in Prolog
+- [ ] 9-kumalak AB-prunning solver in OCaml
 
 ## Web
 - [ ] :space_invader: Site for ACM SC
@@ -84,6 +86,7 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Twitter for anonymous ideas. You log in, but the ideas you post are anonymous.
 - [ ] A graphical programming language like Scratch that teaches functional and declarative programming
 - [ ] Static web-site generator from Emacs (written in elisp)
+- [ ] Scrabble game with coop and webhooks (and in FP if possible)
 
 ## OS
 - [ ] Rufus port to the Linux (Code is available, only need to rewrite it with Qt)
