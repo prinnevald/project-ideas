@@ -152,3 +152,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Telegram library for F#
 - [ ] Open-source platform for reproducible research and paper peer-review
 - [ ] Protocol for uploading, exchanging, searching and reviewing academic papers. Kinda like git-torrent-mastadon for publications.
+- [ ] Personal "batteries-included" OCaml library for easier project development.
